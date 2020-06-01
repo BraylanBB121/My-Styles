@@ -1,0 +1,33 @@
+h1, h2 {
+  color: red;
+  font-family: "Comic Sans MS";
+}
+
+p, ol li, ul li {
+  color: blue;
+  font-family: "Trebuchet MS";
+  letter-spacing: 1.2px;
+}
+
+button {
+  color: orange;
+  font-family: "Arial";
+  border-radius: 10px;
+  padding: 4px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+a:hover {
+  color: coral;
+}
+
+hr {
+  border: red;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+ul, ol {
+  margin: 3px 1px 3px 1px;
+}
